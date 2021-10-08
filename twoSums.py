@@ -7,5 +7,3 @@ def twoSums(nums, target: int):
         if(sub in nums):
             results.append(nums.index(num))
     return results
-
-

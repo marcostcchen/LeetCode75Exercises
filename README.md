@@ -1,1 +1,1 @@
-# https://leetcode.com/list/xi4ci4ig/
+https://leetcode.com/list/xi4ci4ig/
