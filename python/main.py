@@ -1,3 +1,4 @@
+from longestPalindrome import longestPalindrome
 from twoSums import twoSums
 from longestStringWithoutRepeating import longestStringWithoutRepeating
 
@@ -10,3 +11,8 @@ if __name__ == "__main__":
     solutionArray = longestStringWithoutRepeating(string)
     print(
         f"LgstStrNoRepeat: {str(solutionArray)}, Length: {str(len(solutionArray))}")
+
+    s = "babad"
+    lgstpalindrome = longestPalindrome(s)
+    print(
+        f"LgstPalindrome: {str(lgstpalindrome)}, Length: {str(len(lgstpalindrome))}")
